@@ -1,0 +1,36 @@
+{
+  "READYCHECK.ChatTextCheck": "está preparado!",
+  "READYCHECK.ChatTextUserUpdate": "atualizou o seu status para",
+
+  "READYCHECK.DialogContentReadyCheck": "O seu GM iniciou uma Checagem de Preparação. Clique no botão abaixo quando você estiver preparado para jogar!",
+  "READYCHECK.DialogContentStatusUpdate": "Por favor, selecione uma opção abaixo para atualizar seu status de preaparação.",
+  "READYCHECK.DialogTitleReadyCheck": "Checagem de Preparação",
+  "READYCHECK.DialogTitleStatusUpdate": "Atualizar Status de Preparação",
+
+  "READYCHECK.ErrorNotGM": "Apenas GMs podem iniciar checagens de preparação.",
+
+  "READYCHECK.GmDialogTitle": "Checagem de Preparação - Opções do GM",
+  "READYCHECK.GmDialogContent": "Que ação você gostaria de fazer?",
+  "READYCHECK.GmDialogButtonCheck": "Iniciar uma Checagem de Preparação",
+  "READYCHECK.GmDialogButtonStatus": "Definir Meu Status de Preparação",
+
+  "READYCHECK.PlayerReady": "Jogador Está Preparado",
+  "READYCHECK.PlayerNotReady": "Jogador Está Despreparado",
+
+  "READYCHECK.SettingsChatMessagesForChecksTitle": "Mostrar Mensagens de Chat para Checagens de Preparação",
+  "READYCHECK.SettingsChatMessagesForChecksHint": "Ative isto para mostrar uma mensagem no chat quando um jogador muda seu status enquanto uma checagem de preparação estiver ativa.",
+  "READYCHECK.SettingsChatMessagesForUserUpdatesTitle": "Mostrar Mensagens de Chat da Atualização do Usuário",
+  "READYCHECK.SettingsChatMessagesForUserUpdatesHint": "Ative isto para mostrar uma mensagem no chat quando um jogador muda seu status enquanto nenhuma checagem de preparação estiver ativa.",
+
+  "READYCHECK.SettingsPlayAlertForChecksTitle": "Tocar um Alerta Quando a Checagem de Preparação Começar",
+  "READYCHECK.SettingsPlayAlertForChecksHint": "Ative isto para tocar um som quando a checagem de preparação começar.",
+
+  "READYCHECK.SettingsCheckAlertSoundPathTitle": "Caminho do Som da Checagem de Preparação",
+  "READYCHECK.SettingsCheckAlertSoundPathHint": "Coloque o caminho do som para tocar quando uma checagem de preparação começar. Deixar isso em branco irá tocar o som padrão.",
+
+  "READYCHECK.StatusReady": "Preparado",
+  "READYCHECK.StatusNotReady": "Despreparado",
+
+  "READYCHECK.UiChangeButton": "Mudar Status de Preparação",
+  "READYCHECK.UiGmButton": "Iniciar Checagem de Preparação ou Mudar Status de Preparação"
+}
